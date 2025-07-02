@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat - Mental Health Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="chat-page">
+  <!-- ✅ Top Heading -->
+  <div class="header">
+    ChatBot for Mental and Health Assistance
+  </div>
+
+  <div class="chat-container">
+    <h2>Welcome, {{ username }}!</h2>
+
+    <div id="chat-box"></div>
+
+    <form id="chat-form">
+      <input type="text" id="message" placeholder="Type your message..." required>
+      <button type="submit">Send</button>
+    </form>
+
+    <!-- ✅ Back to Main Menu Button -->
+    <form action="{{ url_for('login') }}" method="get">
+      <button type="submit" class="back-button">Back to Main Menu</button>
+    </form>
+  </div>
+
+  <script>
+    $(function() {
+      $("#chat-form").submit(function(e) {
+        e.preventDefault();
+        var message = $("#message").val();
+        $("#chat-box").append("<p><strong>You:</strong> " + message + "</p>");
+        $("#message").val("");
+        $.post("/chat", {message: message}, function(data) {
+          $("#chat-box").append("<p><strong>Chatbot:</strong> " + data.response + "</p>");
+          $("#chat-box").scrollTop($("#chat-box")[0].scrollHeight);
+        });
+      });
+    });
+  </script>
+</body>
+</html>

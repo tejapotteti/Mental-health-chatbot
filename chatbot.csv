@@ -1,0 +1,110 @@
+user_input,chatbot_response
+hi,"Hi! How are you feeling today? You can ask me things like:
+- I am suffering from fever
+- I have stress
+- I have headache
+- I feel sad
+- I can’t sleep
+- I feel lonely
+- I need motivation
+- I feel anxious
+I’m here to support you!"
+hello,"Hi! How are you feeling today? You can ask me things like:
+- I am suffering from fever
+- I have stress
+- I have headache
+- I feel sad
+- I can’t sleep
+- I feel lonely
+- I need motivation
+- I feel anxious
+I’m here to support you!"
+hey,"Hi! How are you feeling today? You can ask me things like:
+- I am suffering from fever
+- I have stress
+- I have headache
+- I feel sad
+- I can’t sleep
+- I feel lonely
+- I need motivation
+- I feel anxious
+I’m here to support you!"
+good morning,"Hi! How are you feeling today? You can ask me things like:
+- I am suffering from fever
+- I have stress
+- I have headache
+- I feel sad
+- I can’t sleep
+- I feel lonely
+- I need motivation
+- I feel anxious
+I’m here to support you!"
+good evening,"Hi! How are you feeling today? You can ask me things like:
+- I am suffering from fever
+- I have stress
+- I have headache
+- I feel sad
+- I can’t sleep
+- I feel lonely
+- I need motivation
+- I feel anxious
+I’m here to support you!"
+
+how are you,I’m here to help you feel better. What’s on your mind?
+i feel sad,I’m sorry you’re feeling sad. Want to share what’s troubling you?
+i am sad,It’s okay to feel this way. I’m here to listen.
+i feel stressed,"Stress can be overwhelming. Do you want some relaxation tips?"
+i feel anxious,"Anxiety is tough. Try to breathe slowly. Want more calming techniques?"
+i am depressed,"I’m really sorry to hear that. You are important. Would you like support resources?"
+i am lonely,"You’re not alone. I’m always here to chat."
+i am tired,"Remember to rest and take care of yourself."
+i need motivation,"You are stronger than you think. Keep going!"
+tell me a quote,"Here’s a quote: “Believe you can and you’re halfway there.”"
+thank you,"You’re welcome. I’m always here."
+thanks,"Happy to help you anytime."
+bye,"Take care! Come talk to me anytime."
+goodbye,"Goodbye! Stay positive."
+i can't sleep,"Try avoiding screens before bed and breathing exercises."
+how to sleep better,"Keep your room cool, avoid caffeine, and relax your mind."
+i am angry,"It’s okay to feel angry. Want to try a calming exercise?"
+how to manage stress,"Deep breaths, taking breaks, and positive thinking can help."
+how to stay positive,"Focus on small wins and gratitude every day."
+i am feeling overwhelmed,"Take it step by step. I’m here for you."
+i need help,"I’m here to listen. Tell me what’s going on."
+i have fever,"Rest and drink plenty of fluids. If fever persists, please see a doctor."
+i have cold,"Stay warm and hydrated. Get some rest."
+i have cough,"Try warm liquids and honey. If it continues, consult a doctor."
+i have headache,"Rest and drink water. Consider a mild pain reliever."
+i have stomach pain,"Rest and avoid heavy foods. If pain persists, consult a healthcare provider."
+i have back pain,"Try gentle stretches and rest. If severe, consult a doctor."
+what is depression,"Depression is a mental health condition. You are not alone, and help is available."
+what is anxiety,"Anxiety causes worry and nervousness. Let’s work through it together."
+how to reduce anxiety,"Slow breathing, mindfulness, and talking to someone can help."
+how to be happy,"Focus on small joys and self-care."
+who are you,"I’m your health and wellness assistant chatbot."
+can you help me,"I’ll do my best. What’s on your mind?"
+are you a doctor,"I’m not a doctor, but I can offer support and information."
+i want to cry,"It’s okay to cry. Let it out and talk to me if you want."
+i feel like giving up,"You are valued and important. If you need help, call a helpline or talk to someone you trust."
+what is stress,"Stress is your body’s response to challenges. Would you like some ways to cope?"
+how to deal with loneliness,"Reach out to a friend or talk to me. You are not alone."
+i feel dizzy,"Please sit down, rest, and drink water. If it continues, consult a doctor."
+i feel weak,"Make sure you eat and rest. If you feel very unwell, seek medical advice."
+i feel happy,"That’s wonderful! I’m glad you’re feeling good."
+how to improve health,"Regular exercise, balanced diet, and enough sleep help a lot."
+what should i eat for energy,"Try whole grains, fruits, nuts, and plenty of water."
+how to lose weight,"Healthy diet and regular exercise are key. Consult a professional for personalized advice."
+how to gain weight,"Eat nutrient-rich foods and consider strength training. A doctor or nutritionist can help."
+i feel confused,"Take a moment to breathe and focus. Want to share what’s confusing you?"
+i have sore throat,"Try warm tea and honey. If it worsens, see a doctor."
+i feel sick,"Rest and stay hydrated. Monitor symptoms and see a doctor if needed."
+how to boost immunity,"Eat fruits, vegetables, get enough sleep, and manage stress."
+i feel nervous,"Nervousness is common. Let’s do a calming breath together."
+i need someone to talk to,"I’m here for you. What’s on your mind?"
+how to stop overthinking,"Write your thoughts down and focus on what you can control."
+i feel unwell,"I’m sorry you feel that way. Want to talk about it?"
+how to stay healthy,"Eat well, exercise, sleep enough, and care for your mental health."
+i feel heartbroken,"Heartbreak is painful. Be gentle with yourself. Want to share what happened?"
+i feel worthless,"You matter and you are enough. If you feel unsafe, please seek help immediately."
+what is mental health,"Mental health affects how we think, feel, and act. It’s important to care for it."
+i feel good,"That’s great to hear! Keep it up."
