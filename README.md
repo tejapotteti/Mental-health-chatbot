@@ -96,7 +96,6 @@ Here are some example phrases you can type:
 ✅ Improve spelling correction and fuzzy matching  
 ✅ Add user registration and history tracking  
 ✅ Dockerize for easier deployment  
-✅ Deploy live on Render or Heroku  
 
 ---
 
