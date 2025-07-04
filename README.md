@@ -22,9 +22,8 @@ Built with **Python**, **Flask**, **HTML/CSS**, and **NLTK** for natural languag
 ---
 
 
-## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/tejapotteti/mental-health-chatbot.git
@@ -33,7 +32,7 @@ cd mental-health-chatbot
 
 ---
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
 Make sure you have **Python 3.8+** installed.
 
@@ -45,7 +44,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3️⃣ Start the application
+### Start the application
 
 ```bash
 python app.py
@@ -53,7 +52,7 @@ python app.py
 
 ---
 
-### 4️⃣ Open in your browser
+### Open in your browser
 
 ```
 http://127.0.0.1:5000/
@@ -99,7 +98,7 @@ Here are some example phrases you can type:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 mental-health-chatbot/
@@ -133,6 +132,6 @@ This project is licensed under the MIT License.
 
 ##  Live Demo
 
-*(Coming soon: You can deploy this project on Render and add the live link here)*
+*([Live Link](https://mental-health-chatbot-8ehv.onrender.com/))*
 
 ---
